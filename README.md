@@ -1,6 +1,6 @@
-# Полный курс по HTML5/CSS3, SASS, Bootstrap v.4/5
+# Полный курс по HTML5/CSS3, SASS, Bootstrap v.4/5 💻
 
-### Инструменты:
+### 🛠 Инструменты:
 
 - Chrome Dev Tools (F12)
 - [VS code](https://code.visualstudio.com/) - Основной редактор кода с кучей плагинов
@@ -10,7 +10,7 @@
   - [Emmet](https://code.visualstudio.com/docs/editor/emmet) - Встроенные сниппеты в VS Code
     **Но для начала изучения HTML/CSS использование Emmet'а не советуеться!**
 
-### Курсы и видосы:
+### 📹 Курсы и видосы:
 
 С расслабленными булками изучаете базовые понятия разметки и использование стилей
 
@@ -18,7 +18,7 @@
 - [HTML за 1 час](https://www.youtube.com/watch?v=bWNmJqgri4Q)
 - [CSS за 20 мин](https://www.youtube.com/watch?v=VZTzTbIEDDA)
 
-Тут уже начинается **Modern HTML/CSS**
+Тут уже начинается **Modern HTML/CSS** ✨
 
 - **Flexbox**
   - [Crash Course](https://www.youtube.com/watch?v=JJSoEo8JSnc)
@@ -46,7 +46,7 @@
   - [Dashboard](https://www.youtube.com/watch?v=pXbEcGUtHgo) - Сверстать (!)
   - [5 версия](https://www.youtube.com/watch?v=I7CfaDYzTVM)
 
-### Шпоры:
+### 📝 Шпоры:
 
 - [Htmlbook](http://htmlbook.ru/) - Компоненты и их атрибуты
 - [W3School](https://www.w3schools.com) - Большой справочник по HTML/CSS/SASS/Bootstrap
@@ -54,7 +54,7 @@
   - [Документация 4 версии](https://bootstrap-4.ru/)
   - [Документация 5 версии](https://bootstrap-4.ru/docs/5.0/)
 
-### Для вёрстки:
+### ✨ Для вёрстки:
 
 1. [Чистый CSS](https://www.behance.net/gallery/90079519/Resume-Landing-page?tracking_source=search_projects_recommended%7Cweb%20landing)
 2. [Используя SASS](https://www.behance.net/gallery/103892127/Business-Landing-page?tracking_source=search_projects_recommended%7Cweb%20landing)
@@ -62,4 +62,4 @@
 
 _И помните, что не понятно - гугл или моя личка в помощь_
 
-Приятного изучения <3
+Приятного изучения ❤️
