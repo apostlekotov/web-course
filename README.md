@@ -1,7 +1,5 @@
 # Полный курс по HTML5/CSS3, SASS, Bootstrap v.4/5
 
----
-
 ### Инструменты:
 
 - Chrome Dev Tools (F12)
