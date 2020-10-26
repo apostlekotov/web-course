@@ -60,6 +60,11 @@
 2. [Используя SASS](https://www.behance.net/gallery/103892127/Business-Landing-page?tracking_source=search_projects_recommended%7Cweb%20landing)
 3. [Используя Bootstrap](https://xd.adobe.com/view/f9f4e53a-a71e-4ad3-5aa7-750236a1c64e-8fc5/?fullscreen)
 
+### 🍬 Extra:
+
+- [What the Font](https://www.myfonts.com/WhatTheFont/) Поиск шрифтов по картинке
+- [Google Fonts](https://fonts.google.com/) - собственно бесплатные шрифты
+
 _И помните, что не понятно - гугл или моя личка в помощь_
 
 Приятного изучения ❤️
