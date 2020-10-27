@@ -14,7 +14,7 @@
 
 С расслабленными булками изучаете базовые понятия разметки и использование стилей
 
-- [Базовый HTML/CSS](https://fructcode.com/ru/courses/html-and-css/)
+- [Современный HTML/CSS](http://freevideotutorials.tech/modern-html-css-from-the-beginning-including-sass-udemy-free-download/)
 - [HTML за 1 час](https://www.youtube.com/watch?v=bWNmJqgri4Q)
 - [CSS за 20 мин](https://www.youtube.com/watch?v=VZTzTbIEDDA)
 
