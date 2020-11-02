@@ -50,6 +50,7 @@
 
 - [Htmlbook](http://htmlbook.ru/) - Компоненты и их атрибуты
 - [W3School](https://www.w3schools.com) - Большой справочник по HTML/CSS/SASS/Bootstrap
+- [Bootstrap 4 Cheat Sheet](https://hackerthemes.com/bootstrap-cheatsheet/) - Шпора по Bootstrap
 - **Bootstrap Документации**
   - [Документация 4 версии](https://bootstrap-4.ru/)
   - [Документация 5 версии](https://bootstrap-4.ru/docs/5.0/)
